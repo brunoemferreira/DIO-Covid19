@@ -13,7 +13,4 @@ Desenvolvendo uma PWA com React para mapear os dados do COVID19 pelo Mundo
   * [React App Rewired]()
 
 
-
-
-npm i --save-dev react-app-rewired
-
+Iniciar Aula 4
