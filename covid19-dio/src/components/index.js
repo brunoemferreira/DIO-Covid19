@@ -1,10 +1,10 @@
-import { Card, CardContent } from '../components/Card';
-import Button from '../components/Button';
-import Grid from '../components/Grid';
-import Typography from '../components/Typography';
-import Skeleton from '../components/Skeleton';
-import Select from '../components/Select';
-import MenuItem from '../components/MenuItem';
+import { Card, CardContent } from './Card'
+import Button from './Button'
+import Grid from './Grid'
+import Typography from './Typography'
+import Skeleton from './Skeleton'
+import Select from './Select'
+import MenuItem from './MenuItem'
 
 export {
   Button,
